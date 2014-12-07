@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^2.3.11",
     "express": "^4.10.4",
-    "jade": "^1.8.1"
+    "jade": "^1.8.1",
+    "mongoose": "^3.8.20"
   }
 }
